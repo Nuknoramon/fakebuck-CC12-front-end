@@ -32,7 +32,7 @@ app.post("/create", async (req, res) => {
           console.log("Error while inserting a user into database", err);
           return res.status(400).send();
         }
-        return res.status(201).json({ message: "New user create success" });
+        return res.status(201).json({ message: "User create success" });
       }
     );
   } catch (err) {
