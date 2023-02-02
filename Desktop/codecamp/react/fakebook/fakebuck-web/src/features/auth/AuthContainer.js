@@ -16,7 +16,7 @@ function AuthContainer() {
                 />
               </div>
               <h2 className="fw-normal mb-0 px-3 px-lg-0 text-6 text-xl-7">
-                Facebook helps you connect and share with the people in your
+                Facebook help you connect and share with the people in your
                 life.
               </h2>
             </div>
